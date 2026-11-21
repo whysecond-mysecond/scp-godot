@@ -1,0 +1,12 @@
+SCRIPT ERROR: Parse Error: Identifier "PointLight3D" not declared in the current scope.
+   at: GDScript::reload (res://scripts/level_builder.gd:250)
+SCRIPT ERROR: Parse Error: Identifier "PointLight3D" not declared in the current scope.
+   at: GDScript::reload (res://scripts/level_builder.gd:266)
+SCRIPT ERROR: Parse Error: Identifier "Background" not declared in the current scope.
+   at: GDScript::reload (res://scripts/level_builder.gd:274)
+SCRIPT ERROR: Parse Error: Identifier "PointLight3D" not declared in the current scope.
+   at: GDScript::reload (res://scripts/level_builder.gd:378)
+SCRIPT ERROR: Parse Error: Identifier "PointLight3D" not declared in the current scope.
+   at: GDScript::reload (res://scripts/level_builder.gd:391)
+ERROR: Failed to load script "res://scripts/level_builder.gd" with error "Parse error".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
